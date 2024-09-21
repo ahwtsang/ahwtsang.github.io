@@ -52,15 +52,15 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  facebook: adrtsang
+  github: ahwtsang
+#  twitter: daattali
 #  patreon: DeanAttali
-  youtube: "@daattali"
+#  youtube: "@daattali"
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: daattali
+  linkedin: ahwtsang
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -109,7 +109,7 @@ title-on-all-pages: true
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
