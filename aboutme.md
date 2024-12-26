@@ -5,9 +5,10 @@ title: About me
 
 Hi, I am an imaging scientist and engineer currently based in the Boston area with experience and passion to develop and deliver imaging technology and solution to advance personalized medicine in routine clinical practice.
 
+---
 <p align="middle">
-<img src="/assets/img/Boston_resized.jpg" alt="Boston" style="width:200; height:100;">
-<img src="/assets/img/MRI_scanner_resized.jpg" alt="MRI" style="width:200; height:100;">
+<img src="/assets/img/Boston_resized.jpg" alt="Boston" style="width:40; height:20;">
+<img src="/assets/img/MRI_scanner_resized.jpg" alt="MRI" style="width:40; height:20;">
 </p>
 ## **My professional journey**
 My interest in engineering goes back to my childhood where I enjoyed building things to solve a problem. I started my career writing software for network switches and train signaling systems after I received my undergraduate degree in computer engineering from the University of Ottawa.
