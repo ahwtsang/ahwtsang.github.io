@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Me
 ---
 
 Hi, I am an imaging scientist and engineer currently based in the Boston area with experience and passion to develop and deliver imaging technology and solution to advance personalized medicine in routine clinical practice.
