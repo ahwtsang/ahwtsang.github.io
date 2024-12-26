@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact Me
+css: contact-me
 ---
 
 You can contact me via the platforms on the bottom of the page or fill out the form to send me a message.
