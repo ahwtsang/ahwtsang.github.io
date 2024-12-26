@@ -7,8 +7,8 @@ Hi, I am an imaging scientist and engineer currently based in the Boston area wi
 
 ---
 <p align="middle">
-<img src="/assets/img/Boston_resized.jpg" alt="Boston" width="40" height="20">
-<img src="/assets/img/MRI_scanner_resized.jpg" alt="MRI" width="40" height="20">
+<img src="/assets/img/Boston_resized.jpg" alt="Boston" style="width:25%; height:25%;">
+<img src="/assets/img/MRI_scanner_resized.jpg" alt="MRI" style="width:25%; height:25%;">
 </p>
 ## **My professional journey**
 My interest in engineering goes back to my childhood where I enjoyed building things to solve a problem. I started my career writing software for network switches and train signaling systems after I received my undergraduate degree in computer engineering from the University of Ottawa.
