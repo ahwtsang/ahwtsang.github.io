@@ -19,6 +19,20 @@ Currently I am a principal engineer at Elucid, a medical device startup, develop
 Overall, I really enjoyed the experience in collaborative research, build and maintain relationships with key opinion leaders, devise and implement imaging biomarkers in clinical studies, data analysis, software engineering in a regulated environment to deliver a commercial product all of which leads to improving treatment options for patients with various detrimental diseases. 
 
 ---
-<img src="/assets/img/leisure/Hiking_res.jpg" alt="Hiking" style="width:50%; height:50%;">
+<p align="middle">
+<img src="/assets/img/leisure/Hiking_res.jpg" alt="Hiking" style="width:25%; height:25%;">
+<img src="/assets/img/leisure/HongKong_res.jpg" alt="Hong Kong" style="width:25%; height:25%;">
+<img src="/assets/img/leisure/national-park-res.jpg" alt="National Park" style="width:25%; height:25%;">
+</p>
+<p align="middle">
+<img src="/assets/img/leisure/Osaka_res.jpg" alt="Osaka" style="width:25%; height:25%;">
+<img src="/assets/img/leisure/Paris_res.jpg" alt="Paris" style="width:25%; height:25%;">
+<img src="/assets/img/leisure/Rome_res.jpg" alt="Rome" style="width:25%; height:25%;">
+</p>
+<p align="middle">
+<img src="/assets/img/leisure/Santorini_res.jpg" alt="Santorini" style="width:25%; height:25%;">
+<img src="/assets/img/leisure/skiing-res.jpg" alt="skiing" style="width:25%; height:25%;">
+<img src="/assets/img/leisure/Sydney_res.jpg" alt="Sydney" style="width:25%; height:25%;">
+</p>
 ## **A little bit more about me ...**
 I enjoy running, cycling, hiking, skiing, and traveling. I love being outdoor, it’s a way for me to unwind and relax. I began running regularly during grad school and have been running weekly since then. I completed my first half marathon in 2020 and currently training for a full marathon hopefully in the near future. Some of my favorite hiking trails are located in Canmore, Banff, Jasper, Waterton, and New Hampshire. I skied at Mont Tremblant, Whistler, Lake Louise, Sunshine Village, Marmot Basin, Snowbird, Killington, and Stowe. I look forward to growing this list and hope to ski in the Swiss Alps one day. I have travelled to Japan, Taiwan, Australia, Singapore, UK, France, Germany, Italy, Greece, Switzerland, Bermuda, and Mexico. My bucket list includes South Korea, New Zealand, Peru, Brazil, Portugal, Spain.
