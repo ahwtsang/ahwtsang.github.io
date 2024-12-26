@@ -22,11 +22,11 @@ author: Adrian Tsang
 navbar-links:
   About Me: "aboutme"
   Publications: "publications"
-  Projects: "projects"
-  Sodium MRI: "sodium"
-  MRI Brain Connectivity: "brainconn"
-  MRI in Multiple Sclerosis: "mspaths"
-  CT Plaque Detection: "elucid"
+  Projects:
+    - Sodium MRI: "sodium"
+    - MRI Brain Connectivity: "brainconn"
+    - MRI in Multiple Sclerosis: "mspaths"
+    - CT Plaque Detection: "elucid"
   Contact Me: "contactme"
 
 ################
