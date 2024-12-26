@@ -56,7 +56,8 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
   Stroke. 2010;41:2795-2800  
   https://doi.org/10.1161/STROKEAHA.110.590554
 
-<br></br>
+<br>
+
 ---
 ## Conference Abstracts and Proceedings
 * **Interpreting brain parenchymal fraction by comparison to healthy volunteers: initial results from the MS PATHS normative sub-study**  
