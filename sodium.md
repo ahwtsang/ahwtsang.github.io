@@ -3,7 +3,9 @@ layout: page
 title: Sodium MRI of the Human Brain
 ---
 
-![ualberta]("/assets/img/SodiumMRI/UofA_logo.png" "ualberta")
+<p align="left">
+<img src="/assets/img/SodiumMRI/UofA_logo.png" alt="ualberta" style="width:50%; height50%;">
+</p>
 
 ### About the project
 
@@ -19,4 +21,4 @@ In this project, I optimized a multiple quantum filtered MRI pulse sequence to i
 
 {% include image.html url="/assets/img/SodiumMRI/Subject 1 - TSC_cropped.png" description="Brain tissue sodium MRI of a healthy volunteer" %}
 
-{% include image.html url="/assets/img/SodiumMRI/Subject 1 - TQ90deg.png" description="Brain triple-quantum sodium MRI of the same volunteer" %}
+{% include image.html url="/assets/img/SodiumMRI/Subject 1 - TQ90deg_cropped.png" description="Brain triple-quantum sodium MRI of the same volunteer" %}

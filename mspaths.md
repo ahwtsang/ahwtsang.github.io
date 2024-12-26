@@ -3,7 +3,9 @@ layout: page
 title: MRI real-world evidence generation in MS
 ---
 
-![biogen]("/assets/img/MSPATHS/biogenlogo.jpeg" "biogen")
+<p align="left">
+<img src="/assets/img/MSPATHS/biogenlogo.jpeg" alt="biogen" style="width:50%; height50%;">
+</p>
 
 ### About the disease
 Multiple sclerosis is an autoimmune disease of the central nervous system where the myelin of nerve fibers is damaged resulting in distinct areas of scar tissues. It is the most common disabling neurological disease of young adults with symptom onset generally occurring between 20 to 40 years of age.*
