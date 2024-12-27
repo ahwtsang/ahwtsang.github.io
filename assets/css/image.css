@@ -3,21 +3,23 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
-  }
+    margin: 5px;
+}
   
-  .image {
+.image {
     display: block;
-    width: 45%;
-  }
+    width: 20%;
+}
   
-  .word {
+.desc {
     display: block;
     width: 100%;
+    padding: 10px;
     text-align: center;
-  }
+}
   
-  .photo-list {
+.photo-list {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-  }
+}
