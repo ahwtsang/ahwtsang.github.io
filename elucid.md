@@ -3,14 +3,10 @@ layout: page
 title: Arterial plaque detection from routine CT scans
 ---
 
-<p align="left">
-<img src="/assets/img/Elucid/Elucid_logo.jpg" alt="elucid" style="width:50%; height50%;">
-</p>
-
 ### About the disease
 Stroke and heart attack are medical emergencies that require immediate medical attention. From the American Heart Association, a stroke occurs when a blood vessel that carries oxygen and nutrients to the brain is either blocked by a clot or bursts (or ruptures). It is the fifth leading cause of death and a leading cause of disability in the United States. A heart attack occurs when the blood flow that brings oxygen to the heart muscle is severely reduced or cut off completely. This happens when coronary arteries that supply the heart muscle with blood flow become narrowed from a buildup of fat, cholesterol and other substances that together are called plaque. This slow process is known as atherosclerosis. About every 40 seconds, someone in the United States has a heart attack.*
 
-*https://www.heart.org/
+*<https://www.heart.org>
 
 
 ### About the project

@@ -9,52 +9,52 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 * **White matter tract microstructure and cognitive performance after transient ischemic attack**  
   Tariq S, Tsang A, Wang M, Reaume N, Carlson H, Sajobi TT, Longman RS, Smith EE, Frayne R, d’Esterre CD, Coutts SB, Barber PA  
   PLoS ONE. 2020;15(10):e0239116  
-  https://doi.org/10.1371/journal.pone.0239116
+  <https://doi.org/10.1371/journal.pone.0239116>
 
 * **Temporal evolution and spatial distribution of quantitative T2 MRI following acute ischemia reperfusion injury**  
   Sah RG, Nobakht S, Rajashekar D, Mouches P, Forkert ND, Sitaram A, Tsang A, Hill MD, Demchuk AM, d’Esterre CD, Barber PA  
   International Journal of Stroke. 2020;15(5):495-506  
-  https://doi.org/10.1177/1747493019895673
+  <https://doi.org/10.1177/1747493019895673>
 
 * **Oculomotor cognitive control abnormalities in Australian rules football players with a history of concussion**  
   Clough M, Mutimer S, Wright DK, Tsang A, Costello DM, Gardner AJ, Stanwell P, Mychasiuk R, Sun M, Brady RD, McDonald SJ, Webster KM, Johnstone MR, Semple BD, Agoston DV, White OB, Frayne R, Fielding J, O'Brien TJ, Shultz SR  
   Journal of Neurotrauma. 2018;35:730-738  
-  https://doi.org/10.1089/neu.2017.5204
+  <https://doi.org/10.1089/neu.2017.5204>
 
 * **White matter structural connectivity is not correlated to cortical resting-state functional connectivity over the healthy adult lifespan**  
   Tsang A, Lebel CA, Bray SL, Goodyear BG, Hafeez M, Sotero RC, McCreary CR, Frayne R
   Frontiers in Aging Neuroscience. 2017;9:144  
-  https://doi.org/10.3389/fnagi.2017.00144
+  <https://doi.org/10.3389/fnagi.2017.00144>
 
 * **Simultaneous spin-echo and gradient-echo BOLD measurements by dynamic MRS**  
   Cao P, Hyder F, Zhou IY, Zhang JW, Xie VB, Tsang A, Wu EX  
   NMR in Biomedicine. 2017;30  
-  https://doi.org/10.1002/nbm.3745
+  <https://doi.org/10.1002/nbm.3745>
 
 * **In vivo double quantum filtered sodium magnetic resonance imaging of human brain**  
   Tsang A, Stobbe RW, Beaulieu C  
   Magnetic Resonance in Medicine. 2015;73:497-504  
-  https://doi.org/10.1002/mrm.25131
+  <https://doi.org/10.1002/mrm.25131>
 
 * **Evaluation of B0-Inhomogeneity Correction for Triple-Quantum-Filtered Sodium MRI of the Human Brain at 4.7 T**  
   Tsang A, Stobbe RW, Beaulieu C  
   Journal of Magnetic Resonance. 2013;230:134-144  
-  https://doi.org/10.1016/j.jmr.2013.01.017
+  <https://doi.org/10.1016/j.jmr.2013.01.017>
 
 * **Triple-Quantum-Filtered Sodium Imaging of the Human Brain at 4.7 T**  
   Tsang A, Stobbe RW, Beaulieu C  
   Magnetic Resonance in Medicine. 2012;67:1633-1643  
-  https://doi.org/10.1002/mrm.23147
+  <https://doi.org/10.1002/mrm.23147>
 
 * **Relationship Between Sodium Intensity and Perfusion Deficits in Acute Ischemic Stroke. Journal of Magnetic Resonance Imaging**  
   Tsang A, Stobbe RW, Hussain MS, Bhagat YA, Beaulieu C, Emery D, Butcher KS  
   Journal of Magnetic Resonance Imaging. 2011;33:41-47  
-  https://doi.org/10.1002/jmri.22299
+  <https://doi.org/10.1002/jmri.22299>
 
 * **Low Cerebral Blood Volume Is Predictive of Diffusion Restriction Only in Hyperacute Stroke**  
   Knash M, Tsang A, Hameed B, Saini M, Jeerakathil T, Beaulieu C, Emery D, Butcher KS  
   Stroke. 2010;41:2795-2800  
-  https://doi.org/10.1161/STROKEAHA.110.590554
+  <https://doi.org/10.1161/STROKEAHA.110.590554>
 
 <br>
 

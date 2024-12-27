@@ -3,10 +3,6 @@ layout: page
 title: Sodium MRI of the Human Brain
 ---
 
-<p align="left">
-<img src="/assets/img/SodiumMRI/UofA_logo.png" alt="ualberta" style="width:50%; height50%;">
-</p>
-
 ### About the project
 
 There’s interest to image sodium non-invasively in human as the distribution of sodium and potassium ions are tightly regulated across cell membrane to generate a resting membrane potential. Under pathological conditions such as cerebral ischemia, the homeostatic condition is disrupted due to the failure of the active transport mechanism across cell membrane.

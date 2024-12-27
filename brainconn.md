@@ -3,10 +3,6 @@ layout: page
 title: Structural and functional connectivity using MRI
 ---
 
-<p align="left">
-<img src="/assets/img/DTI_rsfMRI/UC-vert-rgb.jpg" alt="ucalgary" style="width:50%; height50%;">
-</p>
-
 ### About the project
 During my postdoc in the [Vascular Imaging Lab](https://cumming.ucalgary.ca/labs/vascular-imaging/vascular-imaging) at the University of Calgary, I spearheaded a project to explore the relationship of structural and functional connectivity across the normal adult lifespan in 7 resting-state networks using DTI and rs-fMRI data acquired from about 200 adults in an on-going normative study in Calgary. I developed image processing pipeline to analyze MRIs of T1, DTI, rs-fMRI in Matlab and bash scripts using FreeSurfer, FSL, Diffusion Toolkit / TrackVis to derive brain connectivity metrics. Processing of the images was done using the high performance computing cluster infrastructure managed by the [Digital Research Alliance of Canada](https://alliancecan.ca/en) (formerly known as WestGrid).
 
