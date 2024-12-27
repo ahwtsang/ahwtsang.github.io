@@ -12,7 +12,7 @@ Stroke and heart attack are medical emergencies that require immediate medical a
 ### About the project
 Elucid is an early-stage startup company developing a commercial image analysis software at the point of care for clinicians to non-invasively detect plaque buildup in the arterial walls from routine CT angiography images. This is critical to provide accurate identification of patients at risk of having a heart attack or stroke. I joined the image processing team to improve accuracy of the plaque detection algorithm and support validation of algorithm generated results against histology ground truth for FDA clearance submission. The image below shows an axial view of a contrast enhanced CT angiography image where the coronary arterial vessel lumen and wall can be identified and applying advanced image processing algorithm to detect plaque composition in the wall.
 
-{% include image.html url="/assets/img/Elucid/ct-coronary-angiogram-axial-labelling-questions.jpg" description="Case courtesy of Craig Hacking, Radiopaedia.org. From the case rID: 63155" %}
+{% include image.html url="/assets/img/Elucid/elucid_ai_soft_plaque_assessment_coronary_cta" description="3D plaque analysis in arterial vessel wall" %}
 
 
 ### My contributions

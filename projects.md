@@ -16,7 +16,7 @@ It has been a pleasure and blessing to have worked on some very interesting proj
     </div>
     <div class="photos">
         <a href="https://ahwtsang.github.io/elucid/">
-            <img src="/assets/img/Elucid/anatomical-2023188_1280.png" alt="elucid">
+            <img src="/assets/img/Elucid/ct-coronary-angiogram-axial.jpg" alt="elucid">
         </a>
         <h4 class="desc">CT Plaque Detection</h4>
         <div class="desc">Atherosclerotic plaque detection from contrast enhanced CT angiography images in clinical decision support image analysis software</div>
@@ -30,7 +30,7 @@ It has been a pleasure and blessing to have worked on some very interesting proj
     </div>
     <div class="photos">
         <a href="https://ahwtsang.github.io/brainconn/">
-            <img src="/assets/img/DTI_rsfMRI/Brain_network_cartoon.png" alt="brainconn">
+            <img src="/assets/img/DTI_rsfMRI/DTI-tractography-of-the-corpus-callosum-in-the-brain.png" alt="brainconn">
         </a>
         <h4 class="desc">Brain Connectivity</h4>
         <div class="desc">Relationship of structural and functional connectivity across the normal adult lifespan</div>
