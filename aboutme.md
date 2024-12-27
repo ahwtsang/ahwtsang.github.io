@@ -15,6 +15,7 @@ Hi, I am a biomedical engineer currently based in the Boston area with experienc
 <p align="middle">
 <img src="/assets/img/SodiumMRI/UofA_logo.png" alt="ualberta" style="width:15%; height15%;">
 <img src="/assets/img/DTI_rsfMRI/UC-vert-rgb.jpg" alt="ucalgary" style="width:15%; height15%;">
+<img src="/assets/img/hku-logo.jpg" alt="hku" style="width:15%; height15%;">
 <img src="/assets/img/MSPATHS/biogenlogo.jpeg" alt="biogen" style="width:15%; height15%;">
 <img src="/assets/img/Elucid/Elucid_logo.jpg" alt="elucid" style="width:15%; height15%;">
 </p>
