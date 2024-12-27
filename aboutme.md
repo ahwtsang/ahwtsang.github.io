@@ -13,11 +13,21 @@ Hi, I am a biomedical engineer currently based in the Boston area with experienc
 ---
 ## **My professional journey**
 <p align="middle">
-<img src="/assets/img/SodiumMRI/UofA_logo.png" alt="ualberta" style="width:15%; height15%;">
-<img src="/assets/img/DTI_rsfMRI/UC-vert-rgb.jpg" alt="ucalgary" style="width:15%; height15%;">
-<img src="/assets/img/hku-logo.jpg" alt="hku" style="width:15%; height15%;">
-<img src="/assets/img/MSPATHS/biogenlogo.jpeg" alt="biogen" style="width:15%; height15%;">
-<img src="/assets/img/Elucid/Elucid_logo.jpg" alt="elucid" style="width:15%; height15%;">
+<a href="https://www.ualberta.ca">
+    <img src="/assets/img/SodiumMRI/UofA_logo.png" alt="ualberta" style="width:15%; height15%;">
+</a>
+<a href="https://www.ucalgary.ca">
+    <img src="/assets/img/DTI_rsfMRI/UC-vert-rgb.jpg" alt="ucalgary" style="width:15%; height15%;">
+</a>
+<a href="https://www.hku.hk">
+    <img src="/assets/img/hku-logo.jpg" alt="hku" style="width:20%; height20%;">
+</a>
+<a href="https://www.biogen.com">
+    <img src="/assets/img/MSPATHS/biogenlogo.jpeg" alt="biogen" style="width:15%; height15%;">
+</a>
+<a href="https://www.elucid.com">
+    <img src="/assets/img/Elucid/Elucid_logo.jpg" alt="elucid" style="width:15%; height15%;">
+</a>
 </p>
 
 It has long been my aspiration to develop my career in the intersection of engineering and medical science. One area that sparked my interest is in medical imaging where advances in the imaging technology and analysis methods had contributed significantly to help us understand the biological processes of many diseases leading to breakthrough discovery of novel treatments.
