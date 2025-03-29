@@ -31,5 +31,5 @@ In 2015, Biogen initiated a real-world evidence generation program to advance pe
 * Develop brain segmentation algorithm on 3D-FLAIR images and co-develop image analysis tool (MSPie) with research team at Siemens Healthineers to derive novel brain parenchymal fraction (BPF) metric and assist to improve accuracy of AI approach to automatically detect new or enlarged white matter lesions
 * Support partners at Siemens Healthineers to integrate prototype in routine radiology workflow at 3 healthcare institutions to translate BPF metric in clinical use and ability to visualize lesions shortly after patient scan session
 * Obtain MRI data of normal subjects from internal study and supplement with external datasets to define normative percentile of BPF across the adult age
-* Collaborate with internal data scientist to develop and evaluate AI approaches to reduce false positive lesions detected by prototype
-* Build and maintain relationships with key opinion leaders, present updates at investigator meetings and interact with radiologists to discuss standardization of future clinical imaging protocol and future research focus
+* Collaborate internally to develop and evaluate AI approaches to reduce false positive lesions detected by prototype
+* Build and maintain relationships with key opinion leaders, present updates at investigator meetings and interact with radiologists to discuss standardization of future clinical imaging protocol and research focus
