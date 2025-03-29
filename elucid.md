@@ -16,8 +16,8 @@ Elucid is an early-stage startup company developing a commercial image analysis 
 
 
 ### My contributions
-* Provided internal capability to support running batch analysis on various datasets for algorithm development and verification
-* Collaborated cross-functionally to support algorithm validation against histopathology ground truth and FDA 510(k) submission
-* Collaborated to develop an AI solution based on the nnUNet architecture to automatically extract coronary arterial vessel tree and calcified plaques, including tools to process data for model training and computing metrics to evaluate model performance
-* Supported to demonstrate a working prototype to key internal stakeholders and contributed to integrate prototype into the software product
-* Explored deploy strategy using Triton Inference Server ensemble pipeline that aims to significantly reduce inference time and on the overall analysis time of a case 
+* Provide internal capability to support running batch analysis on various datasets for algorithm development and verification
+* Collaborate cross-functionally to support algorithm validation against histopathology ground truth and FDA 510(k) submission
+* Collaborate to develop an AI solution based on the nnUNet architecture to automatically extract coronary arterial vessel tree and calcified plaques, including tools to process data for model training and computing metrics to evaluate model performance
+* Support proof-of-concept demonstration of a working prototype to key internal stakeholders and contribute to integrate prototype into the software product
+* Explore deploy strategy using Triton Inference Server ensemble pipeline that aims to significantly reduce inference time and on the overall analysis time of a case 
